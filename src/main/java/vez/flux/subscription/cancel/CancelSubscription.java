@@ -1,4 +1,4 @@
-package vez.flux.subscription;
+package vez.flux.subscription.cancel;
 
 import reactor.core.publisher.Flux;
 
